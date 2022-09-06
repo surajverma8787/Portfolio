@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"f:\\personal_portfolio_project\\portfolio\\templates\\portfolio\\code.cpp","tests":[{"id":1662184624121,"input":"3 4\n1 0 1 0\n0 1 0 1\n1 0 1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\personal_portfolio_project\\portfolio\\templates\\portfolio\\code.cpp","group":"local","local":true}
